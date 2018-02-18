@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 256e195cd654b4f0588c9874ce73cb32
+timeCreated: 1498822213
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_alkar_bal
+    100002: Bone_alkar_jobb
+    100004: Bone_csipo
+    100006: Bone_fej
+    100008: Bone_felkar_bal
+    100010: Bone_felkar_jobb
+    100012: Bone_ful_bal_001
+    100014: Bone_ful_bal_002
+    100016: Bone_ful_bal_003
+    100018: Bone_ful_bal_004
+    100020: Bone_ful_bal_005
+    100022: Bone_ful_jobb_001
+    100024: Bone_ful_jobb_002
+    100026: Bone_ful_jobb_003
+    100028: Bone_ful_jobb_004
+    100030: Bone_ful_jobb_005
+    100032: Bone_kez_bal
+    100034: Bone_kez_jobb
+    100036: Bone_lab_bal_001
+    100038: Bone_lab_bal_002
+    100040: Bone_lab_bal_003
+    100042: Bone_lab_bal_004
+    100044: Bone_lab_bal_006
+    100046: Bone_lab_bal_007
+    100048: Bone_lab_bal_008
+    100050: Bone_lab_bal_009
+    100052: Bone_test
+    100054: Bone_vall_jobb
+    100056: Bonevall_bal
+    100058: nyuszi
+    100060: //RootNode
+    400000: Bone_alkar_bal
+    400002: Bone_alkar_jobb
+    400004: Bone_csipo
+    400006: Bone_fej
+    400008: Bone_felkar_bal
+    400010: Bone_felkar_jobb
+    400012: Bone_ful_bal_001
+    400014: Bone_ful_bal_002
+    400016: Bone_ful_bal_003
+    400018: Bone_ful_bal_004
+    400020: Bone_ful_bal_005
+    400022: Bone_ful_jobb_001
+    400024: Bone_ful_jobb_002
+    400026: Bone_ful_jobb_003
+    400028: Bone_ful_jobb_004
+    400030: Bone_ful_jobb_005
+    400032: Bone_kez_bal
+    400034: Bone_kez_jobb
+    400036: Bone_lab_bal_001
+    400038: Bone_lab_bal_002
+    400040: Bone_lab_bal_003
+    400042: Bone_lab_bal_004
+    400044: Bone_lab_bal_006
+    400046: Bone_lab_bal_007
+    400048: Bone_lab_bal_008
+    400050: Bone_lab_bal_009
+    400052: Bone_test
+    400054: Bone_vall_jobb
+    400056: Bonevall_bal
+    400058: nyuszi
+    400060: //RootNode
+    4300000: nyuszi
+    7400000: Idle
+    7400002: Walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: nyuszi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 800
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_csipo
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_001
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_001/Bone_lab_bal_002
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_001/Bone_lab_bal_002/Bone_lab_bal_003
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_001/Bone_lab_bal_002/Bone_lab_bal_003/Bone_lab_bal_004
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_006
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_006/Bone_lab_bal_007
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_006/Bone_lab_bal_007/Bone_lab_bal_008
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_006/Bone_lab_bal_007/Bone_lab_bal_008/Bone_lab_bal_009
+        weight: 1
+      - path: Bone_csipo/Bone_test
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001/Bone_ful_bal_002
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001/Bone_ful_bal_002/Bone_ful_bal_003
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001/Bone_ful_bal_002/Bone_ful_bal_003/Bone_ful_bal_004
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001/Bone_ful_bal_002/Bone_ful_bal_003/Bone_ful_bal_004/Bone_ful_bal_005
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001/Bone_ful_jobb_002
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001/Bone_ful_jobb_002/Bone_ful_jobb_003
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001/Bone_ful_jobb_002/Bone_ful_jobb_003/Bone_ful_jobb_004
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001/Bone_ful_jobb_002/Bone_ful_jobb_003/Bone_ful_jobb_004/Bone_ful_jobb_005
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_vall_jobb
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_vall_jobb/Bone_felkar_jobb
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_vall_jobb/Bone_felkar_jobb/Bone_alkar_jobb
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_vall_jobb/Bone_felkar_jobb/Bone_alkar_jobb/Bone_kez_jobb
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bonevall_bal
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bonevall_bal/Bone_felkar_bal
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bonevall_bal/Bone_felkar_bal/Bone_alkar_bal
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bonevall_bal/Bone_felkar_bal/Bone_alkar_bal/Bone_kez_bal
+        weight: 1
+      - path: nyuszi
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 800
+      lastFrame: 835
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_csipo
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_001
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_001/Bone_lab_bal_002
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_001/Bone_lab_bal_002/Bone_lab_bal_003
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_001/Bone_lab_bal_002/Bone_lab_bal_003/Bone_lab_bal_004
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_006
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_006/Bone_lab_bal_007
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_006/Bone_lab_bal_007/Bone_lab_bal_008
+        weight: 1
+      - path: Bone_csipo/Bone_lab_bal_006/Bone_lab_bal_007/Bone_lab_bal_008/Bone_lab_bal_009
+        weight: 1
+      - path: Bone_csipo/Bone_test
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001/Bone_ful_bal_002
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001/Bone_ful_bal_002/Bone_ful_bal_003
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001/Bone_ful_bal_002/Bone_ful_bal_003/Bone_ful_bal_004
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_bal_001/Bone_ful_bal_002/Bone_ful_bal_003/Bone_ful_bal_004/Bone_ful_bal_005
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001/Bone_ful_jobb_002
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001/Bone_ful_jobb_002/Bone_ful_jobb_003
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001/Bone_ful_jobb_002/Bone_ful_jobb_003/Bone_ful_jobb_004
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_fej/Bone_ful_jobb_001/Bone_ful_jobb_002/Bone_ful_jobb_003/Bone_ful_jobb_004/Bone_ful_jobb_005
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_vall_jobb
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_vall_jobb/Bone_felkar_jobb
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_vall_jobb/Bone_felkar_jobb/Bone_alkar_jobb
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bone_vall_jobb/Bone_felkar_jobb/Bone_alkar_jobb/Bone_kez_jobb
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bonevall_bal
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bonevall_bal/Bone_felkar_bal
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bonevall_bal/Bone_felkar_bal/Bone_alkar_bal
+        weight: 1
+      - path: Bone_csipo/Bone_test/Bonevall_bal/Bone_felkar_bal/Bone_alkar_bal/Bone_kez_bal
+        weight: 1
+      - path: nyuszi
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
